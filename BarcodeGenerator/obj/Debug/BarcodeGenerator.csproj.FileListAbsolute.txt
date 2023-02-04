@@ -1,0 +1,6 @@
+C:\Users\Cab-042-n3\source\repos\BarcodeGenerator\bin\Debug\BarcodeGenerator.dll
+C:\Users\Cab-042-n3\source\repos\BarcodeGenerator\bin\Debug\BarcodeGenerator.pdb
+C:\Users\Cab-042-n3\source\repos\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.AssemblyReference.cache
+C:\Users\Cab-042-n3\source\repos\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Cab-042-n3\source\repos\BarcodeGenerator\obj\Debug\BarcodeGenerator.dll
+C:\Users\Cab-042-n3\source\repos\BarcodeGenerator\obj\Debug\BarcodeGenerator.pdb
